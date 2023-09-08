@@ -29,6 +29,3 @@ chain = LLMChain(
 answer = chain.run(input())
 
 print(answer)
-
-
-asbcs
