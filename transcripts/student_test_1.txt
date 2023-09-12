@@ -1,0 +1,45 @@
+Proposed question
+ ----------
+ Introduction:
+Baseball is one of the most popular sports in the United States. It is a game played with a bat and a ball, and it involves throwing, catching, and hitting. Many people enjoy watching baseball games and even playing the sport themselves.
+
+Question:
+Think about a time when you watched or played a baseball game. What do you think makes baseball an exciting sport to watch or play? Give specific reasons and examples from your own experience to support your answer.
+ ----------
+
+Reviewer  1
+OK
+Reviewer  2
+OK.
+This question meets all the criteria of the given context:
+1. The question is appropriate for a 4th grade audience.
+2. The question is connected to the topic of baseball.
+3. The question aligns with the Common Core Writing standard CCSS.ELA-LITERACY.W.4.9 as it asks students to draw evidence from their own experiences to support their analysis of what makes baseball an exciting sport to watch or play.
+4. The question goes beyond just facts by asking for specific reasons and examples from the student's own experience to support their answer.
+Reviewer  3
+OK.
+The introduction provides the necessary context by introducing the topic of baseball and explaining its popularity. It also mentions the different aspects of the game.
+The question is highly relevant as it asks the student to reflect on their own experiences with baseball and provide reasons and examples to support their answer. This aligns with the Common Core Writing standard of drawing evidence from personal experiences to support analysis.
+Created good question!
+Starting conversation with student
+----------
+ Educator
+ Introduction:
+Baseball is one of the most popular sports in the United States. It is a game played with a bat and a ball, and it involves throwing, catching, and hitting. Many people enjoy watching baseball games and even playing the sport themselves.
+
+Question:
+Think about a time when you watched or played a baseball game. What do you think makes baseball an exciting sport to watch or play? Give specific reasons and examples from your own experience to support your answer.
+----------
+ Student
+ I like baseball because it's fun to play with friends.
+----------
+ Educator
+ Question: Think about a time when you watched or played a baseball game. What do you think makes baseball an exciting sport to watch or play? Give specific reasons and examples from your own experience to support your answer.
+
+Response:
+I like baseball because it's fun to play with friends.
+
+Feedback:
+This answer does not fully address the question. It only mentions that baseball is fun to play with friends, but does not provide any specific reasons or examples to support this claim. Additionally, the question asked about both watching and playing baseball, so it would be beneficial to include thoughts about both aspects.
+
+Grade: D
