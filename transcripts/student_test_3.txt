@@ -1,32 +1,54 @@
 Proposed question
  ----------
- Part 1:
-Baseball is America's favorite pastime. It has been played for over a century and has captured the hearts of millions of fans. The sport is played with a bat and ball, and involves two teams trying to score runs by hitting the ball and running around bases. But baseball is more than just a game; it is a symbol of teamwork, perseverance, and sportsmanship. Many people have written stories and poems about baseball, capturing the emotions and excitement that come with playing and watching the sport.
+ Introduction:
+Baseball is an exciting and popular sport that has captured the hearts of many people in the United States. It involves players hitting a ball with a bat and running around a diamond-shaped field to score points. Baseball has a rich history and is considered the national pastime of America. Many people enjoy watching and playing the game, which requires teamwork, skill, and strategy.
 
-Part 2:
-Imagine you are a character in a baseball story. Write a short reflection about how playing baseball has taught you an important life lesson. Use evidence from the story to support your ideas.
+Question:
+Think about a time when you were playing baseball or watching a baseball game. Describe the experience and explain how it made you feel. How do you think a baseball game can bring people together? Draw evidence from your own experience or from a book or article about baseball to support your answer.
  ----------
 
+----------
 Reviewer  1
-OK
+5
+
+This question is highly relevant to the topic of baseball and is connected to the Common Core Writing standard. It asks students to draw evidence from their own experience or from a text about baseball to support their analysis and reflection. The question goes beyond just facts by asking students to describe an experience and explain how it made them feel, as well as how a baseball game can bring people together. Overall, it encourages critical thinking and allows students to explore the emotional aspects of the game, as well as the social impact.
+----------
 Reviewer  2
-OK
+5
+
+This question is highly relevant to the topic of baseball and fits well within the context of the Common Core Writing standard. The introduction provides background information about baseball and sets the stage for the question. The question itself provides students with an opportunity to reflect on a personal experience and analyze the impact of baseball on bringing people together. It also encourages students to draw evidence from their own experiences or external sources to support their response. Overall, this question effectively engages students in higher-order thinking and writing skills.
+----------
 Reviewer  3
-OK. This question is connected to the topic of baseball, as it asks students to imagine themselves as a character in a baseball story. It also relates to the Common Core Writing standard, as it asks students to draw evidence from a literary text (the baseball story) to support their analysis and reflection. The question goes beyond just facts by asking students to reflect on how playing baseball has taught them an important life lesson, and to support their ideas with evidence from the story.
+4
+
+This question is highly relevant to the topic of baseball and goes beyond just factual knowledge. It connects to the Common Core Writing standard by asking students to draw evidence from their own experience or from a book or article about baseball to support their answer. The question also prompts the student to reflect on their feelings and think about how a baseball game can bring people together. Overall, it encourages critical thinking, analysis, and reflection, which aligns well with the educational context.
+----------
+Average question score:  4.666666666666667
 Created good question!
+
 Starting conversation with student
 ----------
  Educator
- Part 1:
-Baseball is America's favorite pastime. It has been played for over a century and has captured the hearts of millions of fans. The sport is played with a bat and ball, and involves two teams trying to score runs by hitting the ball and running around bases. But baseball is more than just a game; it is a symbol of teamwork, perseverance, and sportsmanship. Many people have written stories and poems about baseball, capturing the emotions and excitement that come with playing and watching the sport.
+ Introduction:
+Baseball is an exciting and popular sport that has captured the hearts of many people in the United States. It involves players hitting a ball with a bat and running around a diamond-shaped field to score points. Baseball has a rich history and is considered the national pastime of America. Many people enjoy watching and playing the game, which requires teamwork, skill, and strategy.
 
-Part 2:
-Imagine you are a character in a baseball story. Write a short reflection about how playing baseball has taught you an important life lesson. Use evidence from the story to support your ideas.
+Question:
+Think about a time when you were playing baseball or watching a baseball game. Describe the experience and explain how it made you feel. How do you think a baseball game can bring people together? Draw evidence from your own experience or from a book or article about baseball to support your answer.
 ----------
  Student
- Playing baseball has taught me the important life lesson of teamwork. In the story, our team faced a tough opponent and we were losing. But instead of giving up, we started working together and supporting each other. We encouraged our teammates and made sure everyone felt included. By working as a team, we were able to turn the game around and win. This experience taught me that when we work together and support each other, we can achieve great things. It's not just about individual performance, but about the collective effort of the team. Baseball showed me that teamwork is crucial in both sports and in life.
+ When I was watching a baseball game with my family, I felt really excited and happy. The stadium was crowded with fans cheering for their favorite teams. Every time a player hit the ball or made a great play, everyone would cheer and clap. It made me feel connected to the people around me, even if we didn't know each other.
+
+A baseball game can bring people together because it creates a sense of community and shared interest. In the stadium, everyone is cheering for the same teams and players. We all want to see our favorite team win and have a good time. It's like we're all part of a big family, united by our love for the game.
+
+I read an article that said baseball was not only a sport but also a social event. People from different backgrounds come together to watch and enjoy the game. The article said that attending a baseball game can help create bonds between friends, families, and even strangers, as everyone gets caught up in the excitement of the game.
+
+Based on my own experience and what I read, it's clear that a baseball game can bring people together by giving them something in common to root for and enjoy. It creates a sense of camaraderie and shared moments of joy and celebration. Whether you're playing on a team or simply watching the game, baseball can help build connections and friendships that last.
 ----------
  Educator
- This answer does a great job of addressing the prompt and connecting the life lesson of teamwork to the story. The student provides evidence from the story by explaining how their team faced a tough opponent, but instead of giving up, they worked together and supported each other. The student also makes a clear connection to the importance of teamwork in both sports and life. Overall, the answer is well-written and demonstrates an understanding of the topic and prompt.
+ The answer effectively addresses the prompt and provides a personal experience, as well as evidence from an article about how baseball can bring people together. The student discusses their feelings of excitement and connection while watching a baseball game, and explains that everyone in the stadium cheers for the same teams and players, creating a sense of community. The article they read supports their claims by stating that attending a baseball game can help create bonds between friends, families, and even strangers.
 
-Grade: A
+The answer is well-written and demonstrates understanding of the prompt. The student provides clear examples and connects their personal experience to the larger idea of how baseball can bring people together. The response effectively draws evidence from personal experience and a source, which shows the ability to support analysis with evidence.
+
+Overall, I would rate this response as an A.
+----------
+Quality of a response:  5

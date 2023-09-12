@@ -1,49 +1,64 @@
 Proposed question
  ----------
- Introduction:
+ Part 1:
+In the world of sports, there is a game that many Americans love to play and watch. This game has teams, players, and even its own special equipment. The game I am talking about is baseball! Baseball is known as America's pastime because it has been played in the United States for over a century. But baseball is not just a game - it can also teach us valuable lessons and values that can be applied to our everyday lives.
 
-Baseball is a popular sport in the United States. It is commonly known as America's pastime and has a long history in our country. In baseball, two teams compete against each other, taking turns batting and fielding. The objective of the game is to score more runs than the opposing team. Baseball requires teamwork, skill, strategy, and determination. Many players and teams have become legendary in the world of baseball.
-
-Question:
-
-Think about your favorite baseball team or player. What qualities or skills do you think are important for a baseball player to have in order to be successful? Provide evidence from a book or article about baseball that supports your answer.
+Part 2:
+Think about a time when you had to work together with a group of people to accomplish a task. Now, imagine you are a player on a baseball team. How would working together with your team be similar or different from the experience you had before? Do you think playing baseball could help you become a better team player in the real world? Explain your answer and give examples from your own life or from stories you have read or watched.
  ----------
 
+----------
 Reviewer  1
-OK
+5
+This question fully relates to all parts of the given context:
+1. The question is appropriate for a 4th grade student as it is written in a way that is comprehensible and engaging for their level of understanding.
+2. The question is connected to the topic of baseball by providing an introduction about the game and its significance in American culture.
+3. The question aligns with the Common Core Writing standard CCSS.ELA-LITERACY.W.4.9 by asking students to draw evidence from texts (stories they have read or watched) to support their analysis and reflection on playing baseball.
+4. The question goes beyond just asking for facts, as it prompts students to think about how playing baseball can help them become better team players in real life, and to support their answers with examples.
+----------
 Reviewer  2
-OK
+5
+
+This question meets all aspects of the given context. The introduction provides a clear and engaging context for the topic of baseball, and the question itself relates directly to the Common Core Writing standard of drawing evidence from texts to support analysis and reflection. The question encourages students to think critically about their experiences and connections between playing baseball and real-world teamwork. It also prompts students to provide evidence from their own lives or from literature they have read, encouraging deeper analysis and reflection. Overall, this is a high-quality question that meets the requirements of the context.
+----------
 Reviewer  3
-OK
+5
+The introduction provides a clear context for the topic of the question, which is baseball. It introduces the key elements of the game and its significance in American culture. It also highlights the educational context of drawing evidence from literary or informational texts to support analysis, reflection, and research.
+
+The question itself is highly relevant to the introduction and goes beyond just facts. It asks students to think about their own experiences of working in a group and compare it to working as a player on a baseball team. It also prompts them to reflect on how playing baseball could help them become better team players in the real world. It encourages critical thinking, personal reflection, and the integration of personal experiences and literary or informational texts. Overall, it is a well-crafted question that connects to the educational context and encourages deeper analysis and reflection.
+
+Average question score:  5
+
 Created good question!
+
 Starting conversation with student
 ----------
  Educator
- Introduction:
+ Part 1:
+In the world of sports, there is a game that many Americans love to play and watch. This game has teams, players, and even its own special equipment. The game I am talking about is baseball! Baseball is known as America's pastime because it has been played in the United States for over a century. But baseball is not just a game - it can also teach us valuable lessons and values that can be applied to our everyday lives.
 
-Baseball is a popular sport in the United States. It is commonly known as America's pastime and has a long history in our country. In baseball, two teams compete against each other, taking turns batting and fielding. The objective of the game is to score more runs than the opposing team. Baseball requires teamwork, skill, strategy, and determination. Many players and teams have become legendary in the world of baseball.
-
-Question:
-
-Think about your favorite baseball team or player. What qualities or skills do you think are important for a baseball player to have in order to be successful? Provide evidence from a book or article about baseball that supports your answer.
+Part 2:
+Think about a time when you had to work together with a group of people to accomplish a task. Now, imagine you are a player on a baseball team. How would working together with your team be similar or different from the experience you had before? Do you think playing baseball could help you become a better team player in the real world? Explain your answer and give examples from your own life or from stories you have read or watched.
 ----------
  Student
- A good pitcher is important in baseball. They need to throw the ball fast and accurately to strike out the batters. They need to have strong arms and good aim.
+ Working together with a team in baseball is similar to other group tasks because you have to cooperate and communicate. It can help you become a better team player because you have to listen to your teammates and work towards a common goal. For example, in a baseball game, you have to pass the ball and support your teammates to try and get runs. This can help you build teamwork skills, which can be important in real life when working on projects or in jobs with others.
 ----------
  Educator
- 'Introduction:
+ The question is: 'Part 2: Think about a time when you had to work together with a group of people to accomplish a task. Now, imagine you are a player on a baseball team. How would working together with your team be similar or different from the experience you had before? Do you think playing baseball could help you become a better team player in the real world? Explain your answer and give examples from your own life or from stories you have read or watched.'
 
-Baseball is a popular sport in the United States. It is commonly known as America's pastime and has a long history in our country. In baseball, two teams compete against each other, taking turns batting and fielding. The objective of the game is to score more runs than the opposing team. Baseball requires teamwork, skill, strategy, and determination. Many players and teams have become legendary in the world of baseball.
+The student's response is on-topic and addresses the question. They explain that in both group tasks and playing baseball, cooperation and communication are important. They also give an example of passing the ball and supporting teammates in baseball. Additionally, the student provides a connection to real-life situations, such as working on projects or in jobs with others.
 
-Question:
+Positive points:
+- The response includes a clear understanding of teamwork skills required in baseball.
+- The student provides examples from their own life or from stories.
+- The use of communication and cooperation as similar aspects in both group tasks and baseball demonstrates critical thinking.
 
-Think about your favorite baseball team or player. What qualities or skills do you think are important for a baseball player to have in order to be successful? Provide evidence from a book or article about baseball that supports your answer.'
+Areas where the response could be improved:
+- The student could further explain the idea of working towards a common goal in both group tasks and baseball.
+- The response could be more specific with examples from their own life or from stories to strengthen the argument.
 
-Response:
+Overall, this response demonstrates a good understanding of the question and provides relevant examples. It meets the requirements of the Common Core Writing standard CCSS.ELA-LITERACY.W.4.9.
 
-A good pitcher is important in baseball. They need to throw the ball fast and accurately to strike out the batters. They need to have strong arms and good aim.
-
-Rating: B
-
-Feedback:
-Great job in identifying an important skill for a baseball player! Your response shows an understanding that a pitcher needs to have the ability to throw the ball fast and accurately. However, your answer would benefit from providing evidence from a book or article about baseball to support your point. This would make your response stronger and provide additional information to the reader. Keep up the good work!
+Grade: B
+----------
+Quality of a response:  3.5

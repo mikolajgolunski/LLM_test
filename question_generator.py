@@ -7,8 +7,8 @@ from langchain.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, M
 def create(llm, audience, topic, educational_context):
     template = ("You are an educational questions' creator. You will make a free response question.\n\n"
                 f"Your audience will be: {audience}.\n"
-                f"The question should be connected to the following topic: {topic}.\n"
-                f"The educational context will be: {educational_context}.\n\n"
+                f"The educational context will be: {educational_context}.\n"
+                f"The question should be connected to the following topic: {topic}.\n\n"
                 "The created question should consisting of two parts. First part will "
                 "be an introduction and context for the topic of a question. Second part will be a question "
                 "itself. The question should be highly relevant, connected to the introduction you gave and go beyond just facts.\n\n"

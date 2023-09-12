@@ -2,9 +2,9 @@
 
 A concept system that uses LLMs to generate free response questions that test writing skills. Answer to the generated question is than graded by LLM.
 
-![Diagram of the system](C:\Users\mikol\PycharmProjects\LLM_test\diagram.jpg)
+![Diagram of the system](diagram.jpg)
 
-Each LLM role is coded in separate file.
+Each LLM role is coded in a separate file.
 
 API key should be given in a main.ini file
 
